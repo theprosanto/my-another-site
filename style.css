@@ -1,6 +1,25 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 5%;
 }
 .section-one{
     display: flex;
+    
+}
+.color-orange{
+    color: orange;
+}
+h1{
+    font-size: 80px;
+}
+.first-text{
+    padding-right:10%;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
 }
